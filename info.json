@@ -1,0 +1,9 @@
+{
+  "name": "BiterSpawner",
+  "version": "0.1.0",
+  "title": "Biter Spawner",
+  "author": "Griffin Worboy",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod makes all enemies and spawners craftable"
+}
